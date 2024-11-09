@@ -1,4 +1,4 @@
-# tutorial-C-embedded  
+# Tutorial C/Embedded
 
 ## Description  
 This repository contains my solutions to programming exercises from a course I attended at FPT Software, focused on C programming and embedded systems development, including work with the KE16 microcontroller. The code here demonstrates various concepts such as GPIO handling, interrupts, and timer configuration, all of which were part of my learning process in embedded programming.  
