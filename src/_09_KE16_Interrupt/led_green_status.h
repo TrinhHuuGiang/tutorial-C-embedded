@@ -1,7 +1,16 @@
 /*
+    Copyright (C) <2024> <Giang Trinh>
+
+	This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+*/
+
+/*
  * do not modify system tick when using this library
  * using function init_Systick before using library
- * */
+ */
 /*******************************************************************************
 * Definitions
 ******************************************************************************/
@@ -48,3 +57,13 @@ void blink_Led_green();
 void raising_Led_green();
 
 #endif /* LED_GREEN_STATUS_H_ */
+
+/*
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ */
