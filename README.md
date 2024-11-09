@@ -7,6 +7,6 @@ This repository contains my solutions to programming exercises from a course I a
 These exercises were inspired by assignments provided in the FPT Software training program. However, this repository only contains my original code implementations without including specific content or descriptions from the original assignments to respect FPT Software's intellectual property rights.
 
 ## Requirements
-**Visual Studio Code**
+**Visual Studio Code**  
 **MCUXpresso**: Essential toolchain for developing for NXP microcontrollers, including the KE16 series.  
 **NXP KE16 Board**: Target microcontroller board used for deploying and testing.
