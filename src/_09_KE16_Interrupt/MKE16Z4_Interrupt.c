@@ -1,5 +1,5 @@
 /*
-    <MKE16Z4_Interrupt.c>:
+    <MKE16Z4_Interrupt.c>
     Copyright (C) <2024> <Giang Trinh>
 
 	This program is free software: you can redistribute it and/or modify
